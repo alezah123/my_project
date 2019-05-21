@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;Sumtin&apos;&#x0D;&#x0A;- Original project: &apos;Sumtin&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Sumtin/src/emailapp&#x0D;&#x0A;     Sumtin/src/emailapp.emailapp&#x0D;&#x0A;     emailapp.emailapp.Email.java&#x0D;&#x0A;     emailapp.emailapp.EmailApp.java&#x0D;&#x0A;     Sumtin/src/studentdatabaseemailapp" description="Delete elements" element1="/src&lt;studentdatabaseemailapp" element2="/src&lt;emailapp.emailapp" element3="/src&lt;emailapp" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1558454796925" subPackages="false" version="1.0"/>
+</session>
